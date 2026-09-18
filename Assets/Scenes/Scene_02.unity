@@ -10717,7 +10717,7 @@ GameObject:
   m_Component:
   - component: {fileID: 610697155}
   m_Layer: 0
-  m_Name: GameObject (2)
+  m_Name: Animamated Leafs 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13218,7 +13218,7 @@ GameObject:
   m_Component:
   - component: {fileID: 703518111}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: Animamated Leafs 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38420,7 +38420,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1889753880}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Animamated Leafs 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
